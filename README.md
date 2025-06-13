@@ -702,3 +702,5 @@ Useful for Web Application Penetration Testing, or if you get stranded on Mars a
 | `sqlmap -o -u "http://meh.com/form/" –forms`                             | SQLMap check form for injection                    |
 | `sqlmap -o -u "http://meh/vuln-form" –forms -D database-name -T users –dump` | SQLMap dump and crack hashes for table users on database-name |
 
+
+----------------------------------
